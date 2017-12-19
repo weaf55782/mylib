@@ -1,7 +1,5 @@
 # mylib
-echo "# mylib" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/weaf55782/mylib.git
-git push -u origin master
+啊哈，这里写markdown就感觉舒服多了。  
+**喵喵喵**  
+又胖了十几斤，明天开始减肥！！！
+
